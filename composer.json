@@ -1,10 +1,10 @@
 {
-    "name": "rafaelwendel/phpsupabase",
+    "name": "dlucian/php-supabase",
     "description" : "PHPSupabase is a library written in php language, which allows you to use the resources of a project created in Supabase (https://supabase.io), through integration with its Rest API.",
     "keywords": ["supabase", "php", "client"],
     "version" : "0.0.7",
     "type": "library",
-    "homepage": "https://github.com/rafaelwendel/phpsupabase",
+    "homepage": "https://github.com/dlucian/php-supabase",
     "license": "MIT",
     "authors": [
         {
