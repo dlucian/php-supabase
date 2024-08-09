@@ -4,7 +4,7 @@
     "keywords": ["supabase", "php", "client"],
     "version" : "0.0.7",
     "type": "library",
-    "homepage": "https://github.com/dlucian/php-supabase",
+    "homepage": "https://github.com/rafaelwendel/phpsupabase",
     "license": "MIT",
     "authors": [
         {
